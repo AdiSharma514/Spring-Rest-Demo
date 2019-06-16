@@ -1,4 +1,4 @@
-package com.gfg.spring.SpringRestDemo;
+package com.gfg.spring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
